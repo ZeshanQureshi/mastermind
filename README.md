@@ -6,6 +6,8 @@ Welcome to Mastermind!
 
 Download the repository code. From a console, navigate to the directory with the repository code and run the command **ruby lib/mastermind.rb**
 
+Alternatively, click here to [run the project using Replit](https://replit.com/@ZeshanQureshi/Mastermind).
+
 ## How it Works
 
 If playing as code breaker, the player will have 12 guesses to try to break a 4 digit code consisting of numbers from 1 to 6. If you guess the correct digit but incorrect position you'll see **○**. If you guess the correct digit and the correct position you'll see **•**. 
